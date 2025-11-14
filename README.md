@@ -1,6 +1,6 @@
 # 👋 Hello Wolrd, I'm 0xUr!
 
-![HackTheBox Profile](./assets/htb-profile.png)
+![HackTheBox Profile](./htb-profile.png)
 
 ## 🔐 Cybersecurity Professional
 - 🎯 HackTheBox CTF Player
