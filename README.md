@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2I5aTNqcDdjbnkwemRsZ2o4eDJsYnNxMnF5dHI5anRieDl1OTNtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqINnqA7Vhx3XbVe8z/giphy.gif" width="100%"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2I5aTNqcDdjbnkwemRsZ2o4eDJsYnNxMnF5dHI5anRieDl1OTNtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dqINnqA7Vhx3XbVe8z/giphy.gif" width="60%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=9FEF00&width=800&lines=I+test%2C+break%2C+rebuild%2C+and+iterate.;If+it+runs%2C+I'll+try+to+break+it.;Open+it.+Break+it.+Learn+it.;RCE+enthusiast." alt="Typing SVG"/>
 
@@ -8,7 +8,6 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=0xuri&show_icons=true&theme=hacker&hide_border=true&bg_color=141d2b&title_color=9FEF00&icon_color=9FEF00"/>
 
 ### [*] About Me
 
