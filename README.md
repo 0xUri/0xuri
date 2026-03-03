@@ -8,8 +8,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=9FEF00&width=800&lines=I+test%2C+break%2C+rebuild%2C+and+iterate.;If+it+runs%2C+I'll+try+to+break+it.;Open+it.+Break+it.+Learn+it.;RCE+enthusiast." alt="Typing SVG"/>
 
 </div>
----
-
 
 ### [*] About Me
 
